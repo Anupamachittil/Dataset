@@ -1,0 +1,6 @@
+## Required Libraries
+pandas
+NumPy
+scikit-learn
+matplotlib
+seaborn

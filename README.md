@@ -1,2 +1,1 @@
-## Required Libraries
-Pandas
+## Sales prediction
